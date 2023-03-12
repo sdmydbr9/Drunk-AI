@@ -1,5 +1,5 @@
 # Drunk-AI
-This is an integration of OPENAI chatgpt in the magicmirror. 
+# This is an integration of OPENAI chatgpt in the magicmirror. 
 ## This is the initial version, I am not from a technical background therefore if the codes and scripts are little off the charts or there is a way to enhance it feel free to send PR. I admit this is quite messy and little long process to set up but in the end its worth it.
 
 Download the shortcuts linked below and configure it with the api key from MMM-RemoteControl 
