@@ -1,7 +1,7 @@
 # Drunk-AI
 # This is an integration of OPENAI chatgpt in the magicmirror. 
-# Demo below 
-
+# Demo below  
+# watch the full demo here ([https://youtu.be/eDcc7zqAFwE])
 
 
 https://user-images.githubusercontent.com/65818001/224538652-0ed34179-5164-43a6-882a-8c199d5897d1.mov
