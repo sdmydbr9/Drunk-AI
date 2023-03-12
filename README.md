@@ -7,6 +7,8 @@ ios shortcuts link
 
 ([https://www.icloud.com/shortcuts/a0d2d12116ee4ba19ca89f684e8adc93])
 
+# you need to run this shortcuts every time you want to interact with the chatgpt, or you can use the default telegram commands but that is without voice input.
+
 Install MMM-NotificationTrigger ([https://github.com/MMRIZE/MMM-NotificationTrigger.git])
 Add the following lines to the config
  
