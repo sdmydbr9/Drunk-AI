@@ -70,7 +70,7 @@ Add the following in your config
 
 
 
-## Clone the following respository ([https://github.com/sdmydbr9/MMM-11-TTS]) in your modules folder
+## Clone the following respository ([https://github.com/sdmydbr9/MMM-11-TTS]) in your modules folder and install it according to instruction
 ## edit the main.py and add your api key and voice id, a voice id as already set by default, you can add any voice id, refer elevenlabs api doc for more details.
 
 
