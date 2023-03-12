@@ -1,12 +1,14 @@
 # Drunk-AI
-This is an integration of OPENAI chatgpt in the magicmirror.
+This is an integration of OPENAI chatgpt in the magicmirror. 
+## This is the initial version, I am not from a technical background therefore if the codes and scripts are little off the charts or there is a way to enhance it feel free to send PR. I admit this is quite messy and little long process to set up but in the end its worth it.
+
 Download the shortcuts linked below and configure it with the api key from MMM-RemoteControl 
  more info here ([https://github.com/Jopyth/MMM-Remote-Control.git])
 
 ios shortcuts link 
 
 ([https://www.icloud.com/shortcuts/a0d2d12116ee4ba19ca89f684e8adc93])
-## EDIT THE DOWNLOADED SHORTCUT AND REPLACE "mirrormirror" with your api key from MMM-RemoteControl
+## EDIT THE DOWNLOADED SHORTCUT AND REPLACE "mirrormirror" with your api key from MMM-RemoteControl. 
 
 # you need to run this shortcuts every time you want to interact with the chatgpt, or you can use the default telegram commands but that is without voice input.
 
