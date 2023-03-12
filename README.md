@@ -85,10 +85,10 @@ Add the following in your config
 
 
 
-### Disclaimer: Even though the quality of the output if their voice is far superior to GOOGLE TTS, the character limit is very limited, 10,000 characters per month per account, i hope they will offer more in future, or you can opt for a pay account and get around 30,000 characters as well as voice cloning features,  clone any voice you want, for example clone the voice of jarvis and transform your magicmirror into jarvis. just add the voice ID in the main.py and youre good to do.
+### Disclaimer: Even though the quality of the output of their voice is far superior to GOOGLE TTS, the character limit is very limited, 10,000 characters per month per account, I hope they will offer more in future, or you can opt for a paid account and get around 30,000 characters as well as voice cloning features,  clone any voice you want, for example clone the voice of jarvis and transform your magicmirror into jarvis. just add the voice ID in the main.py and youre good to do.
 
 ### Disclaimer 2: The above module works in my test but it is not very efficient since the script will first downlaod the audio from the api request and convert it using fmpeg and play the audio as output. 
-### Depends on fmpeg. 
+### Depends on fmpeg. Install it if you dont have it installed using apt
 
 
 
