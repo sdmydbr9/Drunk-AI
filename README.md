@@ -16,7 +16,7 @@ Download the shortcuts linked below and configure it with the api key from MMM-R
 
 ios shortcuts link 
 
-([https://www.icloud.com/shortcuts/a0d2d12116ee4ba19ca89f684e8adc93])
+([https://www.icloud.com/shortcuts/8a0e7600808d45eb9616dae8105653ef])
 ## EDIT THE DOWNLOADED SHORTCUT AND REPLACE "mirrormirror" in the text with your api key from MMM-RemoteControl. 
 
 # you need to run this shortcuts every time you want to interact with the chatgpt, or you can use the default telegram commands but that is without voice input, hotword detection will be added soon.
