@@ -20,7 +20,7 @@ ios shortcuts link
 ## EDIT THE DOWNLOADED SHORTCUT AND REPLACE "mirrormirror" in the text with your api key from MMM-RemoteControl. 
 
 # you need to run this shortcuts every time you want to interact with the chatgpt, or you can use the default telegram commands but that is without voice input, hotword detection will be added soon.
-## When you run this shortcuts, the mirror with update with jarvis animation and text saying "say something", you have to speak in the microphone after you see Say something and if the audio was captured successfully, it will update with the spoken text. the listening duartion is set to 4 seconds by default, you can adjust this by editing the transcript.py in the MMM-Chat module  mentioned below.
+## When you run this shortcuts, the mirror with update with jarvis animation and text saying "say something", you have to speak in the microphone after you see Say something and if the audio was captured successfully, it will update with the spoken text. the listening duration is set to 4 seconds by default, you can adjust this by editing the transcript.py in the MMM-Chat module  mentioned below.
 
 ## Install and configure MMM-Chat from here ([ https://github.com/sdmydbr9/MMM-Chat])
 
@@ -89,6 +89,7 @@ Add the following in your config
 
 ### Disclaimer 2: The above module works in my test but it is not very efficient since the script will first downlaod the audio from the api request and convert it using fmpeg and play the audio as output. 
 ### Depends on fmpeg. Install it if you dont have it installed using apt
+# This whole implementation maybe possible to be implemented in a single module, I hope someone will try to make this in a single module and less messy
 
 
 
