@@ -10,25 +10,28 @@ ios shortcuts link
 Install MMM-NotificationTrigger ([https://github.com/MMRIZE/MMM-NotificationTrigger.git])
 Add the following lines to the config
  
- 
+
+    
+    
     {
-disabled : false,
- classes:"default",
-  module: "MMM-NotificationTrigger",
-  config: {
-    triggers:[
-      {
-        trigger: "SHOW_ALERT",
-        fires: [
-          {
-            fire:"MY_COMMAND",
-            exec: (payload) => `python3 /home/pi/MagicMirror/modules/MMM-11-TTS/main.py "${payload.message}"`,
-          },
-        ],
+      disabled : false,
+      classes:"default",
+       module: "MMM-NotificationTrigger",
+       config: {
+         triggers:[
+            {
+             trigger: "SHOW_ALERT",
+              fires: [
+               {
+                fire:"MY_COMMAND",
+                exec: (payload) => `python3 /home/pi/MagicMirror/modules/MMM-11-TTS/main.py "${payload.message}"`,
+               },
+                     ],
+             },
+                  ]
+              }
       },
-    ]
-  }
-},
+
 
 
 Install MMM-OpenAI from here ([https://github.com/MMRIZE/MMM-OpenAI.git])
@@ -56,6 +59,6 @@ Add the following in your config
                         handler.sendNotification('SHOW_ALERT', alertPayload)
                 }
         }
-},
+     },
 
 
