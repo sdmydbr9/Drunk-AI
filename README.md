@@ -34,7 +34,7 @@ ios shortcuts link
     },
 
 
-Install MMM-OpenAI from here ([https://github.com/MMRIZE/MMM-OpenAI.git])
+## Install MMM-OpenAI from here ([https://github.com/MMRIZE/MMM-OpenAI.git])
 
 Add the following in your config 
                       
